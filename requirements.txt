@@ -1,0 +1,3 @@
+mss==2.0.22
+numpy
+tensorflow

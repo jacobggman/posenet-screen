@@ -15,7 +15,7 @@ from draw import drawKeypoints, drawSkeleton
 from PIL import Image
 from mss import mss
 
-mon = {'top': 150, 'left': 700, 'width': 680, 'height': 350}
+mon = {'top': 150, 'left': 670, 'width': 680, 'height': 350}
 sct = mss()
 
 
